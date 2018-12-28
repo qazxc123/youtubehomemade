@@ -7,7 +7,8 @@
 <a href="http://www.1111.com.tw" target="_blank">1111</a>
 <a href="http://www.yes123.com.tw" target="_blank">123</a>
 <a href="https://www.google.com.tw/maps" target="_blank">Maps</a>
-<a href="https://web.metro.taipei/c/pic_menu.asp?target=bs" target="_blank">MRT</a> <BR>
+<a href="https://web.metro.taipei/c/pic_menu.asp?target=bs" target="_blank">MRT</a>
+<a href="https://tw.voicetube.com/" target="_blank">VoiceTube</a> <BR>
 <a href="https://hr.esunfhc.com/Recruitment/Home/Account " target="_blank">玉山</a> 
 <a href="https://hrrecruit.scsb.com.tw/recruit/login.html" target="_blank">上海</a> <BR>
 <a href="https://femascloud.com/camelottw/" target="_blank">Camelottw</a>             
